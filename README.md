@@ -1,6 +1,6 @@
 # plymouth-i_use_arch_btw
 
-example of [video to plymouth converter](https://github.com/SimoriccITA/video-to-plymouth)
+created with [video to plymouth converter](https://github.com/SimoriccITA/video-to-plymouth)
 
 Plymouth theme for having the video from [this reddit post](https://www.reddit.com/r/archlinux/comments/10euewd/just_made_a_trailer/) at boot
 
