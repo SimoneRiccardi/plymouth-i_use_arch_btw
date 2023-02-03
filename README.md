@@ -14,3 +14,5 @@ How to install the theme:
 4. recreate initramfs ``` mkinicpio -P ```
 
 [oiginal video](https://user-images.githubusercontent.com/54505492/216335724-8d913a7a-1b83-4659-9d12-a03ee4f0d0da.mp4)
+
+[poor video quality example](https://user-images.githubusercontent.com/54505492/216481900-ab3d8030-6a78-4842-ba05-ac2e31d577e5.mp4)
