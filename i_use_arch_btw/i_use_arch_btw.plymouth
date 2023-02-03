@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=i_use_arch_btw
+Description=animation from i_use_arch_btw.mp4 video
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/i_use_arch_btw
+ScriptFile=/usr/share/plymouth/themes/i_use_arch_btw/script.script
